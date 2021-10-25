@@ -1,0 +1,17 @@
+com/ionut1993/reactNativePet/generated/BasePackageList.java
+ com.ionut1993.reactNativePet.generated.BasePackageList
+com/ionut1993/reactNativePet/ReactNativeFlipper.java
+ com.ionut1993.reactNativePet.ReactNativeFlipper
+ com.ionut1993.reactNativePet.ReactNativeFlipper$1
+ com.ionut1993.reactNativePet.ReactNativeFlipper$2
+ com.ionut1993.reactNativePet.ReactNativeFlipper$2$1
+com/ionut1993/reactNativePet/MainActivity.java
+ com.ionut1993.reactNativePet.MainActivity
+ com.ionut1993.reactNativePet.MainActivity$1
+com/ionut1993/reactNativePet/BuildConfig.java
+ com.ionut1993.reactNativePet.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/ionut1993/reactNativePet/MainApplication.java
+ com.ionut1993.reactNativePet.MainApplication
+ com.ionut1993.reactNativePet.MainApplication$1
